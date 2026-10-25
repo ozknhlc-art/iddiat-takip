@@ -1,0 +1,6 @@
+{
+  // Cloudflare bu dosyayı okuyup public/ klasörünü flat-sky-1721 adresine yayınlar.
+  "name": "flat-sky-1721",
+  "compatibility_date": "2025-09-01",
+  "assets": { "directory": "./public" }
+}
